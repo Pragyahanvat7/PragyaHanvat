@@ -9,6 +9,6 @@
 // to opening the visitor's own email client instead (mailto:), so it
 // still works out of the box with zero setup.
 
-export const EMAILJS_SERVICE_ID = "";
-export const EMAILJS_TEMPLATE_ID = "";
-export const EMAILJS_PUBLIC_KEY = "";
+export const EMAILJS_SERVICE_ID = "service_55wu55l";
+export const EMAILJS_TEMPLATE_ID = "template_hnss8hd";
+export const EMAILJS_PUBLIC_KEY = "RbOHTPjghVt33WYNm";
